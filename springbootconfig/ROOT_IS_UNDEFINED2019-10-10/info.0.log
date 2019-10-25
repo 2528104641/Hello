@@ -1,0 +1,137 @@
+[INFO ] 2019-10-10 10:55:18 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 218444 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 10:55:18 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 10:55:18 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2019-10-10 10:55:18 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:55:18 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 10:55:18 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 10:55:18 [main] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 10:55:18 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1810 ms
+[INFO ] 2019-10-10 10:55:18 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 10:55:18 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 10:55:18 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:55:18 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/java16'
+[INFO ] 2019-10-10 10:55:18 [main] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.286 seconds (JVM running for 4.325)
+[INFO ] 2019-10-10 10:55:50 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 218456 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 10:55:50 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 10:55:50 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2019-10-10 10:55:50 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:55:50 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 10:55:50 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 10:55:50 [main] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 10:55:50 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1868 ms
+[INFO ] 2019-10-10 10:55:50 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 10:55:50 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 10:55:50 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:55:50 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/java16'
+[INFO ] 2019-10-10 10:55:50 [main] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.444 seconds (JVM running for 4.459)
+[INFO ] 2019-10-10 10:56:50 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 223540 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 10:56:50 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 10:56:50 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2019-10-10 10:56:50 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:56:50 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 10:56:50 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 10:56:50 [main] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 10:56:50 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1749 ms
+[INFO ] 2019-10-10 10:56:50 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 10:56:50 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 10:56:50 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:56:50 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/java16'
+[INFO ] 2019-10-10 10:56:50 [main] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.182 seconds (JVM running for 4.157)
+[INFO ] 2019-10-10 10:58:26 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 225716 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 10:58:26 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 10:58:26 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+[INFO ] 2019-10-10 10:58:26 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:58:26 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 10:58:26 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 10:58:26 [main] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 10:58:26 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1575 ms
+[INFO ] 2019-10-10 10:58:26 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 10:58:26 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 10:58:26 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+[INFO ] 2019-10-10 10:58:26 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path '/java16'
+[INFO ] 2019-10-10 10:58:26 [main] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.134 seconds (JVM running for 4.339)
+[INFO ] 2019-10-10 10:59:48 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 227340 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 10:59:48 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 10:59:48 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+[INFO ] 2019-10-10 10:59:48 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 10:59:48 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 10:59:48 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 10:59:48 [main] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 10:59:48 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1645 ms
+[INFO ] 2019-10-10 10:59:48 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 10:59:48 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 10:59:48 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 10:59:48 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path '/java16'
+[INFO ] 2019-10-10 10:59:48 [main] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.078 seconds (JVM running for 4.154)
+[INFO ] 2019-10-10 11:01:45 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 227852 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 11:01:45 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 11:01:45 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+[INFO ] 2019-10-10 11:01:45 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:01:45 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 11:01:45 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 11:01:45 [main] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 11:01:45 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2149 ms
+[INFO ] 2019-10-10 11:01:45 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 11:01:45 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 11:01:45 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:01:45 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path '/java16'
+[INFO ] 2019-10-10 11:01:45 [main] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.959 seconds (JVM running for 4.959)
+[INFO ] 2019-10-10 11:02:38 [main] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 228548 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 11:02:38 [main] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 11:30:17 [restartedMain] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 227644 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 11:30:17 [restartedMain] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 582 ms
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path ''
+[INFO ] 2019-10-10 11:30:17 [restartedMain] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 1.093 seconds (JVM running for 157.892)
+[INFO ] 2019-10-10 11:30:17 [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+[INFO ] 2019-10-10 11:30:17 [http-nio-81-exec-10] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-10-10 11:30:17 [http-nio-81-exec-10] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-10-10 11:30:17 [http-nio-81-exec-10] o.s.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+[INFO ] 2019-10-10 11:30:43 [restartedMain] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 227440 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 11:30:43 [restartedMain] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2149 ms
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:30:43 [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path '/java16'
+[INFO ] 2019-10-10 11:30:43 [restartedMain] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.841 seconds (JVM running for 4.96)
+[INFO ] 2019-10-10 11:30:43 [http-nio-81-exec-3] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-10-10 11:30:43 [http-nio-81-exec-3] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-10-10 11:30:43 [http-nio-81-exec-3] o.s.web.servlet.DispatcherServlet - Completed initialization in 11 ms
+[INFO ] 2019-10-10 11:32:20 [restartedMain] c.t.s.s.SpringbootconfigApplication - Starting SpringbootconfigApplication on L4SEG3PMDKV197G with PID 218672 (C:\Users\Administrator\IdeaProjects\springbootconfig\target\classes started by Administrator in C:\Users\Administrator\IdeaProjects\springbootconfig)
+[INFO ] 2019-10-10 11:32:20 [restartedMain] c.t.s.s.SpringbootconfigApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 81 (http)
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1997 ms
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-81"]
+[INFO ] 2019-10-10 11:32:20 [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 81 (http) with context path '/java16'
+[INFO ] 2019-10-10 11:32:20 [restartedMain] c.t.s.s.SpringbootconfigApplication - Started SpringbootconfigApplication in 3.858 seconds (JVM running for 4.916)
+[INFO ] 2019-10-10 11:32:20 [http-nio-81-exec-2] o.a.c.c.C.[.[localhost].[/java16] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2019-10-10 11:32:20 [http-nio-81-exec-2] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2019-10-10 11:32:20 [http-nio-81-exec-2] o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+[INFO ] 2019-10-10 11:32:20 [Thread-14] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
